@@ -1,0 +1,116 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Aug 2025 21:15:42 at https://sahajshekha.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*sahajshekha.com/* -*/wp-admin/* -*/wp-login.php* -*/cart/* -*/checkout/* -*/my-account/* -*?add-to-cart=* -*?replytocom=* -*?s=* -*/feed/* -*/embed/*
+(winhttrack -qwr4C2%Pxs2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sahajshekha.com/ -O1 "C:\Users\soura\OneDrive\Desktop\Sahaj-copy\sahaj-shekha-static" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*sahajshekha.com/* -*/wp-admin/* -*/wp-login.php* -*/cart/* -*/checkout/* -*/my-account/* -*?add-to-cart=* -*?replytocom=* -*?s=* -*/feed/* -*/embed/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:15:44	Warning: 	Note: due to https://sahajshekha.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-content/uploads/wc-logs/, /wp-content/uploads/woocommerce_transient_files/, /wp-content/uploads/woocommerce_uploads/, /wp-admin/ (see in the options to disable this)
+21:18:10	Error: 	"Not Found" (404) at link https://sahajshekha.com/wp-content/plugins/woocommerce/assets/fonts/star.eot (from https://sahajshekha.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.11)
+21:18:11	Error: 	"Not Found" (404) at link https://sahajshekha.com/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from https://sahajshekha.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.11)
+21:18:14	Error: 	"Not Found" (404) at link https://sahajshekha.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot (from https://sahajshekha.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.11)
+21:18:14	Error: 	"Not Found" (404) at link https://sahajshekha.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot? (from https://sahajshekha.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.8.11)
+21:18:26	Error: 	"Not Found" (404) at link https://sahajshekha.com/wp-content/plugins/tutor-lms-elementor-addons/assets/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://sahajshekha.com/wp-content/plugins/tutor-lms-elementor-addons/assets/css/font-awesome.min.css?ver=3.0.1)
+21:18:26	Error: 	"Not Found" (404) at link https://sahajshekha.com/wp-content/plugins/tutor-lms-elementor-addons/assets/fonts/fontawesome-webfont.eot? (from https://sahajshekha.com/wp-content/plugins/tutor-lms-elementor-addons/assets/css/font-awesome.min.css?ver=3.0.1)
+21:18:26	Error: 	"Not Found" (404) at link https://sahajshekha.com/wp-content/plugins/tutor-lms-elementor-addons/assets/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://sahajshekha.com/wp-content/plugins/tutor-lms-elementor-addons/assets/css/font-awesome.min.css?ver=3.0.1)
+21:18:28	Warning: 	Moved Permanently for https://sahajshekha.com/?p=17
+21:18:28	Warning: 	File has moved from https://sahajshekha.com/?p=17 to https://sahajshekha.com/cart-2/
+21:18:30	Warning: 	Moved Permanently for https://sahajshekha.com/?p=499
+21:18:30	Warning: 	File has moved from https://sahajshekha.com/?p=499 to https://sahajshekha.com/gift/
+21:18:34	Warning: 	Moved Permanently for https://sahajshekha.com/?p=9
+21:18:34	Warning: 	File has moved from https://sahajshekha.com/?p=9 to https://sahajshekha.com/dashboard/
+21:18:35	Warning: 	Moved Permanently for https://sahajshekha.com/?p=132
+21:18:35	Warning: 	File has moved from https://sahajshekha.com/?p=132 to https://sahajshekha.com/tutor-login/
+21:18:37	Warning: 	Moved Permanently for https://sahajshekha.com/?p=143
+21:18:37	Warning: 	File has moved from https://sahajshekha.com/?p=143 to https://sahajshekha.com/product/class-8-online-class/
+21:19:40	Warning: 	Moved Permanently for https://sahajshekha.com/?p=665
+21:19:40	Warning: 	File has moved from https://sahajshekha.com/?p=665 to https://sahajshekha.com/class-9/
+21:19:42	Warning: 	Moved Permanently for https://sahajshekha.com/?p=679
+21:19:42	Warning: 	File has moved from https://sahajshekha.com/?p=679 to https://sahajshekha.com/class-10/
+21:19:47	Warning: 	Moved Permanently for https://sahajshekha.com/?p=849
+21:19:47	Warning: 	File has moved from https://sahajshekha.com/?p=849 to https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/
+21:19:50	Error: 	"Not Found" (404) at link https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/%22https:/facebook.com/sahajshekha%22facebook.com/sahajshekha/abr (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:19:51	Error: 	"Not Found" (404) at link https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/%22https:/youtube.com/@sahajshekha%22youtube.com/@sahajshekha/a/phr (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:19:52	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/lessons/১ম-অধ্যায়-বাস্তব-সংখ্যা-part-11/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:19:52	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/lessons/১ম-অধ্যায়-বাস্তব-সংখ্যা-part-12/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:19:53	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/lessons/১ম-অধ্যায়-বাস্তব-সংখ্যা-part-13/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:16	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/৯ম-শ্রেণীর-অনলাইন-ক্লাস/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:16	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/৯ম-শ্রেণীর-ইংরেজি-ক্লাস/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:16	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/৯ম-শ্রেণীর-কোর্স/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:16	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/৯ম-শ্রেণীর-গণিত/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:16	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/৯ম-শ্রেণীর-পড়াশোনা/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/অনলাইন-পড়াশোনা/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/অনলাইন-শিক্ষা/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/অনলাইন-স্কুল/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/ইংরেজি-ক্লাস/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/গণিত-ক্লাস/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/ঘরে-বসে-পড়াশোনা/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/ডিজিটাল-লার্নিং/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/ফেসবুক-গ্রুপ-সাপোর্ট/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/বাংলা-ক্লাস/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/ভিডিও-ক্লাস/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/মোবাইল-দিয়ে-পড়াশোনা/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/মোবাইলে-পড়াশোনা/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/শিক্ষার্থীদের-জন্য-অনলাই/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/সহজ-পাঠদান/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/সহজ-শেখা/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/সহজে-শিখুন/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/সেরা-অনলাইন-ক্লাস/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:44	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/course-tag/সেরা-শিক্ষকদের-ক্লাস/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/)
+21:20:45	Warning: 	Moved Permanently for https://sahajshekha.com/?p=10
+21:20:45	Warning: 	File has moved from https://sahajshekha.com/?p=10 to https://sahajshekha.com/student-registration/
+21:20:45	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product/১০ম-শ্রেনির-বিজ্ঞান-গ্রু/ (from https://sahajshekha.com/shop/)
+21:20:47	Warning: 	Moved Permanently for https://sahajshekha.com/?p=227
+21:20:47	Warning: 	File has moved from https://sahajshekha.com/?p=227 to https://sahajshekha.com/product/class-10-common-q1/
+21:20:47	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/বাংলা-ট্যাগসমূহ-নবম-শ্রে/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/অনলাইন-শিক্ষা/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/অনলাইন-স্কুল/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/ইতিহাস-ও-সামাজিক-বিজ্ঞান/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/ইংরেজি-ক্লাস/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/এসএসসি-প্রস্তুতি/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/গণিত-ক্লাস/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/ঘরে-বসে-পড়াশোনা/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/ডিজিটাল-শিক্ষা/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/দশম-শ্রেণির-অনলাইন-কোর্স/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/ফেসবুক-গ্রুপ-সাপোর্ট/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/বাংলাদেশে-অনলাইন-শিক্ষা/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/বিজ্ঞান-ক্লাস/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/বোর্ড-পরীক্ষার-প্রস্তুতি/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/ভিডিও-ক্লাস/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/মাধ্যমিক-ইংরেজি-কোর্স/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/মাধ্যমিক-গণিত-কোর্স/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/মাধ্যমিক-বিজ্ঞান-কোর্স/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/মাধ্যমিক-শিক্ষা/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/মোবাইলে-পড়াশোনা/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/যেকোনো-সময়-পড়াশোনা/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/শিক্ষকদের-সহায়তা/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/শিক্ষামূলক-ভিডিও/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/সহজ-পাঠদান/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/সহজে-শিখুন/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/সেরা-অনলাইন-ক্লাস/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/সেরা-শিক্ষকদের-ক্লাস/ (from https://sahajshekha.com/product/class-10-common-q1/)
+21:21:07	Warning: 	Moved Permanently for https://sahajshekha.com/?p=221
+21:21:07	Warning: 	File has moved from https://sahajshekha.com/?p=221 to https://sahajshekha.com/product/class-9-science-q1/
+21:21:11	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/উচ্চতর-গনিত/ (from https://sahajshekha.com/product/class-9-science-q1/)
+21:21:11	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/জীব-বিজ্ঞান/ (from https://sahajshekha.com/product/class-9-science-q1/)
+21:21:11	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/নবম-শ্রেনির-উচ্চতর-গনিত-ক/ (from https://sahajshekha.com/product/class-9-science-q1/)
+21:21:11	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/নবম-শ্রেনির-জীব-বিজ্ঞান-ক/ (from https://sahajshekha.com/product/class-9-science-q1/)
+21:21:11	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/নবম-শ্রেনির-পদার্থ-বিজ্ঞ/ (from https://sahajshekha.com/product/class-9-science-q1/)
+21:21:11	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/নবম-শ্রেনির-রসায়ন-ক্লাস/ (from https://sahajshekha.com/product/class-9-science-q1/)
+21:21:11	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/পদার্থ-বিজ্ঞান/ (from https://sahajshekha.com/product/class-9-science-q1/)
+21:21:11	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/product-tag/রসায়ন/ (from https://sahajshekha.com/product/class-9-science-q1/)
+21:21:11	Warning: 	Moved Permanently for https://sahajshekha.com/?p=237
+21:21:11	Warning: 	File has moved from https://sahajshekha.com/?p=237 to https://sahajshekha.com/product/class-10-science-jan-feb-mar/
+21:21:13	Warning: 	Moved Permanently for https://sahajshekha.com/?p=201
+21:21:13	Warning: 	File has moved from https://sahajshekha.com/?p=201 to https://sahajshekha.com/product/class-9-common-subjects-online-class/
+21:21:15	Warning: 	Moved Permanently for https://sahajshekha.com/?p=869
+21:21:15	Warning: 	File has moved from https://sahajshekha.com/?p=869 to https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/lessons/unit-1-lesson-2-part-1-3/
+21:21:15	Error: 	"Error when decompressing" (-1) at link https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/lessons/১ম-অধ্যায়-বাস্তব-সংখ্যা-part-15/ (from https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/lessons/unit-1-lesson-2-part-1-3/)
+21:21:15	Warning: 	Moved Permanently for https://sahajshekha.com/?p=870
+21:21:15	Warning: 	File has moved from https://sahajshekha.com/?p=870 to https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/lessons/unit-1-lesson-2-part-2-2-2/
+21:21:15	Warning: 	Moved Permanently for https://sahajshekha.com/?p=871
+21:21:15	Warning: 	File has moved from https://sahajshekha.com/?p=871 to https://sahajshekha.com/courses/math-and-english-basic-to-advanced-online-class-for-ssc/lessons/unit-1-lesson-3-part-1-2-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 34 seconds : 557 links scanned, 468 files written (42883339 bytes overall) [19901511 bytes received at 59585 bytes/sec], 35212832 bytes transferred using HTTP compression in 216 files, ratio 22%, 20.9 requests per connection
+(72 errors, 33 warnings, 0 messages)
